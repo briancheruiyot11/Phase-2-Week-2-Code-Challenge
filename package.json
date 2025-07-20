@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
-    "start": "node server.js",          
-    "lint": "next lint"
+    "start": "next start",
+    "lint": "next lint",
+    "json-server": "json-server --watch db.json --port 3001"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.3",
     "next": "15.4.2",
     "react": "19.1.0",
     "react-dom": "19.1.0"
@@ -19,6 +19,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.4.2",
+    "json-server": "^1.0.0-beta.3",
     "tailwindcss": "^4"
   }
 }
