@@ -1,0 +1,28 @@
+{
+  "goals": [
+    {
+      "name": "laptop",
+      "targetAmount": 300000,
+      "category": "Electronics",
+      "deadline": "2025-07-25",
+      "id": "1",
+      "savedAmount": 250000
+    },
+    {
+      "name": "Mercedes",
+      "targetAmount": 1500000,
+      "category": "Vehicle",
+      "deadline": "2026-01-01",
+      "id": "5ea7",
+      "savedAmount": 100000
+    },
+    {
+      "name": "Macbook",
+      "targetAmount": 500000,
+      "category": "Electronics",
+      "deadline": "2025-10-01",
+      "id": "547c",
+      "savedAmount": 500000
+    }
+  ]
+}
