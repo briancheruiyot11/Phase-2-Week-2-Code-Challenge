@@ -1,3 +1,4 @@
+# Phase-2-Week-2-Code-Challenge
 # 🧠 Smart Goal Planner
 
 ## Description
@@ -17,9 +18,9 @@ Smart Goal Planner is a modern, responsive savings goal management app built wit
 
 
 ## 🧰 Technologies Used
-- **Frontend:** React, Next.js
+- **Framework:** Next.js
 - **Backend:** JSON Server hosted on [Render][(https://smart-goal-app-api.onrender.com/)](https://smart-goal-app-api.onrender.com)
-- **Hosting:** Vercel (Frontend), Render (API)
+- **Frontend Hosting:** Vercel 
 - **Styling:** CSS Modules / Global styles
 - **Data Format:** JSON (`db.json`)
 
